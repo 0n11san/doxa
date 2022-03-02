@@ -4001,7 +4001,3 @@ input, select, textarea {
 	.nobullet {
 	    list-style-type: none;
 	}
-
-	#phoneitem {
-		list-style-type: none;
-	}
