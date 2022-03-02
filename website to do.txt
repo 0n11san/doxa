@@ -6,8 +6,9 @@ so things that remain to be done:
 
 3. some other visual things i want to run past y'all eventually, but these won't effect the practical business aspects much so aren't highest priority
 > logo incorporated in website
-> logo as favicon
-> centering phone number at bottom of pages
+x logo as favicon
+x centering phone number at bottom of pages
+x remove bullet from phone number (made a custom class called "nobullet")
 > add psychology today badge and link like this (bottom of page: https://trinityhc-services.com/)
 
 4. add get started page?
@@ -15,4 +16,4 @@ so things that remain to be done:
 > rates and insurance / card on file / fees (24 hrs)
 > Checklist and policies
 
-5. change subtitle on main page to: "Mental Health Services At Your Fingertips"?
+x 5. change subtitle on main page to: "Mental Health Services At Your Fingertips"?
