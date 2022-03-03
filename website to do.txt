@@ -17,3 +17,7 @@ x remove bullet from phone number (made a custom class called "nobullet")
 > Checklist and policies
 
 x 5. change subtitle on main page to: "Mental Health Services At Your Fingertips"?
+
+x 6. add get started pages
+
+x 7. add services page
