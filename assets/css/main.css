@@ -4001,3 +4001,14 @@ input, select, textarea {
 	.nobullet {
 	    list-style-type: none;
 	}
+
+/*this is my attempt to center align the Psychology Today button which falls within the icons class section*/
+	.icons {
+		display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+	text-align: center;
+	display: flex;
+  justify-content: center;
+	}
